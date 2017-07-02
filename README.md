@@ -1,1 +1,1 @@
-rudithemerchant
+#### This [demo](https://htmlpreview.github.io/?https://github.com/diofinus/rudithemerchant/blob/master/index.html) created for personal purpose only
